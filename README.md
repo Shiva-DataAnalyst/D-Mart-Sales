@@ -43,4 +43,11 @@ The Excel file contains the following sheets:
 - **Microsoft Excel**: For data analysis, aggregation, and visualization.
 - **Power Querry**: To process, clean and visualize the data as needed.
 
+## Contact
+   - **Linkedin**: www.linkedin.com/in/shiva-kashyap-651316295
+   - **Email**: kashyapshiva0608@gmail.com
+
+## Author
+**Shiva Data Analyst**
+
 
