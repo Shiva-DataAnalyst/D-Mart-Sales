@@ -22,6 +22,10 @@ The Excel file contains the following sheets:
 - **Key Features**:
   - Interactive charts, pivot tables, and slicers.
   - Provides insights such as total sales, profit distribution, and performance by category.
+ 
+![Image](https://github.com/user-attachments/assets/de69598e-9e37-49e9-b2d3-49096f29a4ea)
+
+
 
 ## Key Features
 - **Comprehensive Data**: The `Raw Data` sheet provides detailed transactional records.
